@@ -13,6 +13,13 @@
 - 💬 Ask me about **Node.js, React, MongoDB Etc.**
 
 - 📫 How to reach me **jaydipjadhav2512@gmail.com**
+- 
+<h3>💡 Interests:</h3>
+    <ul>
+        <li>Web Development</li>
+        <li>Open Source Contributions</li>
+        <li>Learning new technologies and frameworks</li>
+    </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
