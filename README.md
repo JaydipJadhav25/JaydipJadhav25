@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaydip Jadhav</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center"> Engineering Student | Aspiring Full-Stack Developer</h3>
 
-<h3 align="center">💡 Interests:</h3>
-
-Web Development
-Open Source Contributions
-Learning new technologies and frameworks
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydipjadhav25&label=Profile%20views&color=0e75b6&style=flat" alt="jaydipjadhav25" /> </p>
 
