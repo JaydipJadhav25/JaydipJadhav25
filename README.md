@@ -1,29 +1,86 @@
-<h1 align="center">Hi 👋, I'm Jaydip Jadhav</h1>
-<h3 align="center">Engineering Student | A passionate developer from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=false&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Jaydip+Jadhav+👨🏻‍💻;" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydipjadhav25&label=Profile%20views&color=0e75b6&style=flat" alt="jaydipjadhav25" /> </p>
+<h2 align="center">Engineering Student | Full Stack MERN Developer | Problem Solver 💡
+</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydipjadhav25" alt="jaydipjadhav25" /></a> </p>
+<div align="center">
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaydipjadhav25&label=Profile%20views&color=0e75b6&style=flat" alt="jaydipjadhav25" /> </p>
+  
+  I’m **Jaydip Jadhav**, a passionate Engineering Student focused on **Full Stack Web Development** using the **MERN stack** (MongoDB, Express, React, Node.js). My mission is to build scalable, high-performance applications that solve real-world problems and enhance user experiences. 🚀
+  <br><br>
+  💻 As a **Full Stack Web Engineer**, I specialize in designing and building end-to-end solutions. I use **React.js** for dynamic front-ends, **Node.js/Express.js** for robust APIs, and **MongoDB/PostgreSQL** for efficient data management, ensuring seamless integration and responsiveness across all platforms.
+  <br><br>
+  ⚙️ As a **Back-End Specialist**, I focus on the architecture and performance of server-side applications. I work with frameworks like **Express.js** to create RESTful APIs, manage complex data models with **MongoDB and MySQL**, and use tools like **Postman** for API testing and **Docker** for containerization.
+  <br><br>
+  💡 As a **Problem Solver**, I enjoy tackling complex algorithms and data structures using languages like **C/C++** and **Python**. My current learning focus is deepening my knowledge of **MERN** technologies and exploring cloud services like **AWS**.
+</div>
 
-- 🔭 I’m currently working on [MERN Stack](https://github.com/JaydipJadhav25/jay-and-backend)
+<br />
 
-- 🌱 I’m currently learning **MERN**
+---
 
-- 💬 Ask me about **Node.js, React, MongoDB Etc.**
+## 🎯 Connect & Reach Me
+<div align="center">
+  <a href="mailto:jaydipjadhav2512@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaydip-jadhav-62172829a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/jaydya2512" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-- 📫 How to reach me **jaydipjadhav2512@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydip-jadhav-62172829a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaydip-jadhav-62172829a/" height="30" width="40" /></a>
-<a href="https://instagram.com/jaydya2512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaydya2512" height="30" width="40" /></a>
+### Current Focus & Expertise
+
+- **🔭 Currently Developing:** My primary focus is on expanding the **MERN Stack** project: [Jay-and-Backend](https://github.com/JaydipJadhav25/jay-and-backend).
+- **🌱 Advanced Learning:** Actively studying advanced concepts in **GitLab CI/CD** and **Docker Orchestration** for robust deployment practices.
+- **💡 Ask Me About:** **Node.js, React, MongoDB, JavaScript**, and modern DevOps practices using tools like **Docker**.
+---
+
+## 🚀 Skills & Technologies
+
+<h4 align="center">Languages, Frameworks & Databases:</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,java,python,c,cpp" /><br>
+</div>
+<br/>
+<h4 align="center">Tools, Platforms & Concepts:</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,redux,tailwind,bootstrap,figma,vscode,graphql" />
+</div>
+
+<br/>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydipjadhav25&theme=onedark" alt="jaydipjadhav25" /></a>
+</p>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jaydipjadhav25&show_icons=true&locale=en&theme=midnight-purple" alt="Jaydip's GitHub Stats" height="200px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydipjadhav25&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="Jaydip's Top Languages" height="200px" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydipjadhav25&show_icons=true&locale=en&layout=compact" alt="jaydipjadhav25" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydipjadhav25&show_icons=true&locale=en" alt="jaydipjadhav25" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipjadhav25&" alt="jaydipjadhav25" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipjadhav25&theme=dark" alt="Jaydip's GitHub Streak" />
+</p>
+<h4 align="center">Jaydip Jadhav's Contribution Graph</h4>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydipjadhav25&theme=react-dark&bg_color=000000&color=7e15f7&line=7e15f7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
