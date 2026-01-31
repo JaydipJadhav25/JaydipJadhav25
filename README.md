@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=1095e8&random=false&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Jaydip+Jadhav+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">Engineering Student | Full Stack MERN Developer | Problem Solver 💡
-</h2>
+<h2 align="center">Engineering Student | Full Stack MERN Developer | Web3 & Blockchain Developer 🔗</h2>
+
 
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaydipjadhav25&label=Profile%20views&color=0e75b6&style=flat" alt="jaydipjadhav25" /> </p>
