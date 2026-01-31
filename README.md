@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipjadhav25&theme=dark" alt="Jaydip's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipjadhav25&theme=midnight-purple" alt="Jaydip's GitHub Streak" />
 </p>
 <h4 align="center">Jaydip Jadhav's Contribution Graph</h4>
 <p align="center">
