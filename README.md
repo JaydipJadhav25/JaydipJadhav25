@@ -5,6 +5,6 @@
 *<font color="#00FFCC">Specializing in Smart Contract Integrity, Web3 Integration, and Full-Stack Performance.</font>*
 Engineering the bridge between high-availability MERN systems and decentralized transparency.
 <br/>
-[<kbd> 📁 𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 </kbd>](https://github.com/JaydipJadhav25/JaydipJadhav25) &nbsp; [<kbd> 🛡️ 𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍 </kbd>](www.linkedin.com/in/jaydip-jadhav-62172829a) &nbsp; [<kbd> ⚡ 𝐆𝐈𝐓𝐇𝐔𝐁 </kbd>](https://github.com/JaydipJadhav25/JaydipJadhav25)
+[<kbd>  𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 </kbd>](https://github.com/JaydipJadhav25/JaydipJadhav25) &nbsp; [<kbd>  𝐋𝐈𝐍𝐊𝐄𝐃𝐈𝐍 </kbd>](www.linkedin.com/in/jaydip-jadhav-62172829a) &nbsp; [<kbd>  𝐆𝐈𝐓𝐇𝐔𝐁 </kbd>](https://github.com/JaydipJadhav25/JaydipJadhav25)
 
 </div>
